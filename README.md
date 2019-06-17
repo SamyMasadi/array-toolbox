@@ -63,4 +63,4 @@ M. Main menu
 ```
 
 ## Author
-Samy Masadi
+Samy Masadi - https://github.com/SamyMasadi
