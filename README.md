@@ -2,12 +2,13 @@
 The program is an Array Toolbox containing several methods towards creating and modifying one dimension and two dimension arrays.
 
 ## Required Software
-Install Java version 8 or higher. Download it here: https://www.java.com/en/download/
+* To run: [Java version 8 or higher](https://www.java.com/en/download/)
+* To compile: [Java SE Development Kit](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 ## How to Compile
 In a terminal, cd to the "src" directory. Compile each .java file like the following example:
 ```
-java ArrayToolbox.java
+javac ArrayToolbox.java
 ```
 
 ## How to Run
