@@ -12,7 +12,7 @@ javac ArrayToolbox.java
 ```
 
 ## How to Run
-In a terminal, cd to the "bin" directory. Enter the following to start the program:
+In a terminal, cd to the "bin" directory (or the directory containing compiled .class files). Enter the following to start the program:
 ```
 java ArrayToolbox
 ```
